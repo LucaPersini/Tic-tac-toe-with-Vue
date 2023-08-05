@@ -4,6 +4,8 @@
 
 A fully working TicTacToe Game
 
+[Click here to play it](https://graceful-kringle-c8c57b.netlify.app/)
+
 ## Technology
 
 - Frontend
