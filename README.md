@@ -20,4 +20,4 @@ The goal of this project is for me to learn new technologies like Vue.js and Tai
 
 | Dark                           | Light                           |
 | ------------------------------ | ------------------------------- |
-| ![](screenshots/game_dark.png) | ![](screenshots/game_light.png) |
+| ![](Screenshots/game_dark.png) | ![](Screenshots/game_light.png) |
